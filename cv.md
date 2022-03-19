@@ -44,4 +44,10 @@ function getMaxSubSum(arr) {
     }
 ```
 
+## About me
+I was born in Smolensk and now I live in Volgograd.
+
+Мarried and have 2 children.
+
+I have been working as a `system analyst` since 2011.
 
