@@ -51,3 +51,6 @@ I was born in Smolensk and now I live in Volgograd.
 
 I have been working as a `system analyst` since 2011.
 
+## Languages
+1. English - B1
+2. Russian - Native
